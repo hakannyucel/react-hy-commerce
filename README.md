@@ -14,3 +14,5 @@ I'm interested in programming and self-development. Self-contained software deve
 ## 🛠 Skills
 
 C#, .Net Core, DDD, Onion Architecture, CQRS, Design Patterns, HTML, CSS, Javascript, JQuery, React, NodeJS
+
+<!-- Security scan triggered at 2026-09-05 08:04:53 -->
